@@ -1,0 +1,5 @@
+﻿Item,Unit,Low estimate,Medium estimate,High estimate
+Number of interim governors,Hours,3,5,9
+Duration of IEB,Months,5,18,24
+Frequency of meetings,# per month,1.1,1,1.25
+Duration of meetings,Hours,2.5,2.5,2.5
