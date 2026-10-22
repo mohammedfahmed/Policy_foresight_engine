@@ -1,0 +1,37 @@
+{
+  "batch_id": "5b768c782ce84ed7afc64642c4c59c89",
+  "reports": 3,
+  "completed": 0,
+  "failures": [
+    {
+      "evaluation_id": "d47fb485-379d-40a1-aab2-769853cf7564",
+      "error": "Provider request failed or returned invalid JSON. Check connectivity and configuration.",
+      "status": "failed"
+    },
+    {
+      "evaluation_id": "19deac2e-408c-407f-85a6-b0886859f598",
+      "error": "Provider request failed or returned invalid JSON. Check connectivity and configuration.",
+      "status": "failed"
+    },
+    {
+      "evaluation_id": "e0d95b54-22b2-447f-9bc7-fc3cb7b2eb18",
+      "error": "Provider request failed or returned invalid JSON. Check connectivity and configuration.",
+      "status": "failed"
+    }
+  ],
+  "import_errors": [],
+  "grouping": [],
+  "diagnostics": {
+    "evaluations": 3,
+    "documents": 5,
+    "proposed_fields": 0,
+    "approved_fields": 0,
+    "quoted_fields": 0,
+    "failed_tasks": 3
+  },
+  "mode": "DRAFT: machine proposals require review",
+  "artifacts": [
+    "Evaluation_Reports_Database_DRAFT.xlsx",
+    "analysis_status.json"
+  ]
+}
