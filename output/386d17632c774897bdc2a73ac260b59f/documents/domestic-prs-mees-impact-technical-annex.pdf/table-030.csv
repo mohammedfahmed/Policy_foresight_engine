@@ -1,0 +1,29 @@
+﻿,Assumpti ons met?,Baseline model,Control factors
+Private Rental Properties,,3.0**,3.4**
+flat,yes,-2.3**,-0.3
+house,yes,8.1**,6.2**
+on gas grid,yes,5.3**,4.6**
+off gas grid,no - 5%,1.2*,1.6**
+main fuel: electricity,yes,1.4*,1.4*
+main fuel: gas,yes,5.4**,4.3**
+size: small,yes,-1.1,0.7
+size: medium,yes,6.8**,5.9**
+size: large,yes,4.6**,3.4**
+walls type: cavity,no - 5%,2.8**,2.4**
+walls type: solid,yes,3.4**,3.5**
+method of construction: traditional,yes,3.2**,3.2**
+method of construction: non- traditional,yes,3.8**,3.8**
+Recent Private Rental Properties,,8.0**,6.7**
+flat,yes,0.9,2.0**
+house,yes,11.6**,9.8**
+on gas grid,yes,7.9**,7.0**
+off gas grid,yes,5.8**,4.0**
+main fuel: electricity,yes,3.2**,3.0**
+main fuel: gas,yes,6.5**,6.5**
+size: small,yes,3.1**,3.4**
+size: medium,yes,11.4**,10.1**
+size: large,yes,8.6**,6.6**
+walls type: cavity,yes,7.5**,5.9**
+walls type: solid,yes,8.3**,7.2**
+method of construction: traditional,yes,7.9**,6.8**
+method of construction: non- traditional,yes,7.2**,7.0**
