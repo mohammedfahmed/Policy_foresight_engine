@@ -1,0 +1,9 @@
+{
+  "status": "failed",
+  "error": "The extraction model is not downloaded. Run ollama pull qwen3:8b (Docker: docker compose exec ollama ollama pull qwen3:8b), then retry analysis.",
+  "batch_id": "f3a545d7a96a45fc8621db3a318c7efe",
+  "artifacts": [
+    "analysis_status.json",
+    "Evaluation_Reports_Database_DRAFT.xlsx"
+  ]
+}
