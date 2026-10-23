@@ -1,0 +1,10 @@
+﻿,Baseline model,Model with control variables
+Private Rental Properties,,
+coefficients,2.48**,2.37**
+odds ratio,11.99,10.73
+Recent Private Rental Properties,,
+coefficients,2.62**,2.59**
+odds ratio,13.78,13.34
+Established Private Rental Properties,,
+coefficients,2.34**,2.24**
+odds ratio,10.33,9.42
