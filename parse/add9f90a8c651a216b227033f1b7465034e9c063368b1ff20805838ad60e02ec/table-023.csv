@@ -1,0 +1,14 @@
+﻿,Estimated impact,Confidence interval,Statistically significant at 95%
+10th percentile,16.1,(14.6 - 17.7),True
+20th percentile,12.2,(10.7 - 13.8),True
+30th percentile,11.1,(9.6 - 12.6),True
+40th percentile,10.4,(9 - 11.8),True
+60th percentile,5.9,(4.2 - 7.7),True
+80th percentile,1.9,(0.7 - 3.2),True
+Established Private Rental Properties,Established Private Rental Properties,Established Private Rental Properties,Established Private Rental Properties
+10th percentile,11.1,(9.47 - 12.64),True
+20th percentile,6.1,(4.59 - 7.59),True
+30th percentile,3.4,(2.12 - 4.7),True
+40th percentile,0.8,(-0.88 - 2.48),False
+60th percentile,-3.7,(-5.4 - -1.94),True
+80th percentile,-4.7,(-6.03 - -3.38),True
