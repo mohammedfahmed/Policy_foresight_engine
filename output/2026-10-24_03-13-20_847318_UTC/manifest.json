@@ -1,0 +1,266 @@
+{
+  "schema_version": "2.6.0",
+  "batch_id": "fd05a2dbbf144829a35fb6e50b6271da",
+  "status": "completed",
+  "created_at": "2026-10-24T00:06:43.579248+00:00",
+  "finished_at": "2026-10-24T00:21:35.400913+00:00",
+  "source": {
+    "repository": "mohammedfahmed/Policy_foresight_engine",
+    "branch": "main",
+    "input_folder": "input",
+    "parse_folder": "parse",
+    "output_folder": "output",
+    "commit": "8a0803c2613aad8ea404bc557185d6d68672f595"
+  },
+  "options": {
+    "recursive": true,
+    "ocr": "auto",
+    "languages": [
+      "eng"
+    ],
+    "tables": true,
+    "table_csv": true,
+    "formats": [
+      "markdown",
+      "json",
+      "text"
+    ],
+    "timeout_seconds": 600,
+    "num_threads": 4
+  },
+  "counts": {
+    "success": 5
+  },
+  "files": [
+    {
+      "relative_path": "Cost_of_formal_school_interventions_report_publication.pdf",
+      "status": "success",
+      "pages": 55,
+      "tables": 22,
+      "duration": 127.83,
+      "outputs": [
+        "document.md",
+        "document.json",
+        "document.txt",
+        "table-001.csv",
+        "table-002.csv",
+        "table-003.csv",
+        "table-004.csv",
+        "table-005.csv",
+        "table-006.csv",
+        "table-007.csv",
+        "table-008.csv",
+        "table-009.csv",
+        "table-010.csv",
+        "table-011.csv",
+        "table-012.csv",
+        "table-013.csv",
+        "table-014.csv",
+        "table-015.csv",
+        "table-016.csv",
+        "table-017.csv",
+        "table-018.csv",
+        "table-019.csv",
+        "table-020.csv",
+        "table-021.csv",
+        "table-022.csv"
+      ],
+      "warnings": [],
+      "error": null
+    },
+    {
+      "relative_path": "domestic-private-rented-sector-minimum-energy-efficiency-standards-interim-synthesis-report.pdf",
+      "status": "success",
+      "pages": 56,
+      "tables": 18,
+      "duration": 109.96,
+      "outputs": [
+        "document.md",
+        "document.json",
+        "document.txt",
+        "table-001.csv",
+        "table-002.csv",
+        "table-003.csv",
+        "table-004.csv",
+        "table-005.csv",
+        "table-006.csv",
+        "table-007.csv",
+        "table-008.csv",
+        "table-009.csv",
+        "table-010.csv",
+        "table-011.csv",
+        "table-012.csv",
+        "table-013.csv",
+        "table-014.csv",
+        "table-015.csv",
+        "table-016.csv",
+        "table-017.csv",
+        "table-018.csv"
+      ],
+      "warnings": [],
+      "error": null
+    },
+    {
+      "relative_path": "domestic-prs-mees-impact-technical-annex.pdf",
+      "status": "success",
+      "pages": 61,
+      "tables": 33,
+      "duration": 179.66,
+      "outputs": [
+        "document.md",
+        "document.json",
+        "document.txt",
+        "table-001.csv",
+        "table-002.csv",
+        "table-003.csv",
+        "table-004.csv",
+        "table-005.csv",
+        "table-006.csv",
+        "table-007.csv",
+        "table-008.csv",
+        "table-009.csv",
+        "table-010.csv",
+        "table-011.csv",
+        "table-012.csv",
+        "table-013.csv",
+        "table-014.csv",
+        "table-015.csv",
+        "table-016.csv",
+        "table-017.csv",
+        "table-018.csv",
+        "table-019.csv",
+        "table-020.csv",
+        "table-021.csv",
+        "table-022.csv",
+        "table-023.csv",
+        "table-024.csv",
+        "table-025.csv",
+        "table-026.csv",
+        "table-027.csv",
+        "table-028.csv",
+        "table-029.csv",
+        "table-030.csv",
+        "table-031.csv",
+        "table-032.csv",
+        "table-033.csv"
+      ],
+      "warnings": [],
+      "error": null
+    },
+    {
+      "relative_path": "domestic-prs-mees-qualitative-technical-annex.pdf",
+      "status": "success",
+      "pages": 31,
+      "tables": 5,
+      "duration": 62.34,
+      "outputs": [
+        "document.md",
+        "document.json",
+        "document.txt",
+        "table-001.csv",
+        "table-002.csv",
+        "table-003.csv",
+        "table-004.csv",
+        "table-005.csv"
+      ],
+      "warnings": [],
+      "error": null
+    },
+    {
+      "relative_path": "Evaluation_of_the_Employer_Ownership_of_Skills_Pilot__Round_1.pdf",
+      "status": "success",
+      "pages": 93,
+      "tables": 41,
+      "duration": 401.94,
+      "outputs": [
+        "document.md",
+        "document.json",
+        "document.txt",
+        "table-001.csv",
+        "table-002.csv",
+        "table-003.csv",
+        "table-004.csv",
+        "table-005.csv",
+        "table-006.csv",
+        "table-007.csv",
+        "table-008.csv",
+        "table-009.csv",
+        "table-010.csv",
+        "table-011.csv",
+        "table-012.csv",
+        "table-013.csv",
+        "table-014.csv",
+        "table-015.csv",
+        "table-016.csv",
+        "table-017.csv",
+        "table-018.csv",
+        "table-019.csv",
+        "table-020.csv",
+        "table-021.csv",
+        "table-022.csv",
+        "table-023.csv",
+        "table-024.csv",
+        "table-025.csv",
+        "table-026.csv",
+        "table-027.csv",
+        "table-028.csv",
+        "table-029.csv",
+        "table-030.csv",
+        "table-031.csv",
+        "table-032.csv",
+        "table-033.csv",
+        "table-034.csv",
+        "table-035.csv",
+        "table-036.csv",
+        "table-037.csv",
+        "table-038.csv",
+        "table-039.csv",
+        "table-040.csv",
+        "table-041.csv"
+      ],
+      "warnings": [],
+      "error": null
+    }
+  ],
+  "parsing_folder": "parse",
+  "output_timestamp": "2026-10-24_03-13-20_847318_UTC",
+  "parsing_results": [
+    {
+      "relative_path": "Cost_of_formal_school_interventions_report_publication.pdf",
+      "path": "parse/c92ef76cb45d4aebe858d6bb56e825b3bfb55f9e2ca189aaa7e829ce95548627/manifest.json"
+    },
+    {
+      "relative_path": "domestic-private-rented-sector-minimum-energy-efficiency-standards-interim-synthesis-report.pdf",
+      "path": "parse/98638906042ce4e69e8a9b130e28e4481e837df6cfcac715a4bb32ddae18733e/manifest.json"
+    },
+    {
+      "relative_path": "domestic-prs-mees-impact-technical-annex.pdf",
+      "path": "parse/add9f90a8c651a216b227033f1b7465034e9c063368b1ff20805838ad60e02ec/manifest.json"
+    },
+    {
+      "relative_path": "domestic-prs-mees-qualitative-technical-annex.pdf",
+      "path": "parse/ea9dd85503b4a18a049b7dedc8472af5eebac58e5ee7523e6d77f6c4cfa40a1a/manifest.json"
+    },
+    {
+      "relative_path": "Evaluation_of_the_Employer_Ownership_of_Skills_Pilot__Round_1.pdf",
+      "path": "parse/ce33a0c7a544776928a48b9d2427b4f88e4d1cd5954cd5d3e5c55c2dc687406b/manifest.json"
+    }
+  ],
+  "evaluation_analysis": {
+    "status": "failed",
+    "stage": "Review analysis diagnostics",
+    "error": "3 report(s) failed. Ollama reached OLLAMA_NUM_PREDICT (4096) before finishing. Reduce EXTRACTION_CONTEXT_CHARS or increase the output-token limit, then retry analysis.",
+    "artifacts": [
+      "Evaluation_Reports_Database_DRAFT.xlsx",
+      "analysis_status.json"
+    ],
+    "diagnostics": {
+      "evaluations": 3,
+      "documents": 5,
+      "proposed_fields": 0,
+      "approved_fields": 0,
+      "quoted_fields": 0,
+      "failed_tasks": 3
+    }
+  }
+}
