@@ -1,0 +1,67 @@
+{
+  "batch_id": "282f457b06114d0a9376fab80e6922f8",
+  "reports": 3,
+  "classification_runs": [
+    {
+      "task_id": "abd2d746-e454-4d0b-95dc-f24ed299f1dd",
+      "evaluation_id": "b91f9c7d-e6ad-4135-8a5d-303ec30e5125",
+      "status": "not_started"
+    },
+    {
+      "task_id": "3aa810cd-4a48-41de-995d-fc8edd0f71f4",
+      "evaluation_id": "d47fb485-379d-40a1-aab2-769853cf7564",
+      "status": "not_started"
+    },
+    {
+      "task_id": "1acea410-9c08-4201-9f8b-3f2165806895",
+      "evaluation_id": "220dd44b-f311-421d-b4c8-85746273cd55",
+      "status": "not_started"
+    }
+  ],
+  "completed": 0,
+  "failures": [
+    {
+      "evaluation_id": "b91f9c7d-e6ad-4135-8a5d-303ec30e5125",
+      "error": "Ollama reached its output-token limit (4096) before finishing. Reduce the request size or increase OLLAMA_NUM_PREDICT / CLASSIFICATION_NUM_PREDICT, then retry analysis.",
+      "status": "failed"
+    },
+    {
+      "evaluation_id": "d47fb485-379d-40a1-aab2-769853cf7564",
+      "error": "Ollama reached its output-token limit (4096) before finishing. Reduce the request size or increase OLLAMA_NUM_PREDICT / CLASSIFICATION_NUM_PREDICT, then retry analysis.",
+      "status": "failed"
+    },
+    {
+      "evaluation_id": "220dd44b-f311-421d-b4c8-85746273cd55",
+      "error": "Ollama reached its output-token limit (4096) before finishing. Reduce the request size or increase OLLAMA_NUM_PREDICT / CLASSIFICATION_NUM_PREDICT, then retry analysis.",
+      "status": "failed"
+    }
+  ],
+  "import_errors": [],
+  "grouping": [
+    {
+      "document": "domestic-prs-mees-qualitative-technical-annex.pdf",
+      "main_document": "domestic-private-rented-sector-minimum-energy-efficiency-standards-interim-synthesis-report.pdf",
+      "evaluation_id": "d47fb485-379d-40a1-aab2-769853cf7564",
+      "rule": "Explicit annex filename and identical non-generic report title; verify grouping before final review."
+    },
+    {
+      "document": "domestic-prs-mees-impact-technical-annex.pdf",
+      "main_document": "domestic-private-rented-sector-minimum-energy-efficiency-standards-interim-synthesis-report.pdf",
+      "evaluation_id": "d47fb485-379d-40a1-aab2-769853cf7564",
+      "rule": "Explicit annex filename and identical non-generic report title; verify grouping before final review."
+    }
+  ],
+  "diagnostics": {
+    "evaluations": 3,
+    "documents": 6,
+    "proposed_fields": 0,
+    "approved_fields": 0,
+    "quoted_fields": 0,
+    "failed_tasks": 3
+  },
+  "mode": "DRAFT: machine proposals require review",
+  "artifacts": [
+    "Evaluation_Reports_Database_DRAFT.xlsx",
+    "analysis_status.json"
+  ]
+}
