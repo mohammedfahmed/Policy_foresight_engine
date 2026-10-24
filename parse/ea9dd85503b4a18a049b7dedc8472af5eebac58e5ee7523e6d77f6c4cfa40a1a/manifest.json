@@ -1,0 +1,65 @@
+{
+  "key": "ea9dd85503b4a18a049b7dedc8472af5eebac58e5ee7523e6d77f6c4cfa40a1a",
+  "source": {
+    "cache_version": 1,
+    "docling_version": "2.130.0",
+    "repository": "mohammedfahmed/policy_foresight_engine",
+    "input_folder": "input",
+    "relative_path": "domestic-prs-mees-qualitative-technical-annex.pdf",
+    "git_blob": "e20b170f2c9bea7bb0f188eda31e587547bfe0ae",
+    "options": {
+      "recursive": true,
+      "ocr": "auto",
+      "languages": [
+        "eng"
+      ],
+      "tables": true,
+      "table_csv": true,
+      "formats": [
+        "markdown",
+        "json",
+        "text"
+      ],
+      "timeout_seconds": 600,
+      "num_threads": 4
+    }
+  },
+  "status": "success",
+  "pages": 31,
+  "tables": 5,
+  "warnings": [],
+  "artifacts": {
+    "document.md": {
+      "sha256": "a61f3fcd2865f7a966728c2267b2b0b932f9f7bc7014057aa7c0fb83599a8153",
+      "size_bytes": 65675
+    },
+    "document.json": {
+      "sha256": "a97a90e55b2458be8d608ef9efada23ec39bc0e79c33a60acc0df98025f4a263",
+      "size_bytes": 714983
+    },
+    "document.txt": {
+      "sha256": "8ad65d127b09bb49b9b6aa3c0d43aea829ffca49aaf28f7983b5c66e9198c12b",
+      "size_bytes": 64499
+    },
+    "table-001.csv": {
+      "sha256": "4a2c94f1b8f27681d42651ef67fd2973865f0715ddd2e19582116900e32af22d",
+      "size_bytes": 2256
+    },
+    "table-002.csv": {
+      "sha256": "c0b942a18a39b674ad22540a236b89362b3e5753bcd1a9e0a707c70e37baa4ce",
+      "size_bytes": 393
+    },
+    "table-003.csv": {
+      "sha256": "c8d1626be565d976ddd7df5ce31377640748f4fc1bf50ffab26311c30b50e3a6",
+      "size_bytes": 291
+    },
+    "table-004.csv": {
+      "sha256": "954c586f621fcabdf27968f6b862d347b1ec14ee322825eaaf983c7d9c8e0ae1",
+      "size_bytes": 132
+    },
+    "table-005.csv": {
+      "sha256": "5b20ae3fa86eea6c21e6e0431c909f128701537e26066db009ecee9bbb3c66e5",
+      "size_bytes": 287
+    }
+  }
+}
