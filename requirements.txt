@@ -1,0 +1,4 @@
+docling>=2.130,<3
+requests>=2.32,<3
+python-dotenv>=1,<2
+jsonschema>=4.25,<5
